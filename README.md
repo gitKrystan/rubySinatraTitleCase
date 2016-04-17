@@ -1,4 +1,4 @@
-# Tamagotchi
+# Title Case
 
 #### By Krystan Menne and Greg Kanteres
 
